@@ -51,7 +51,7 @@ place `input` from eth_getTransactionByHash to testData
 node index.js
 ```
 
-```json
+```
 { name: 'transfer',
   params: 
    [ { name: '_to',
